@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vindya Somathilake</h1>
-<h3 align="center">Undergraduate Student in Computer Science | Passionate Programmer</h3>
+<h3 align="center">Undergraduate | Passionate Programmer | Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vindyass&label=Profile%20views&color=0e75b6&style=flat" alt="vindyass" /> </p>
 
