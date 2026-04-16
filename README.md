@@ -4,7 +4,7 @@
     alt="gif" 
     width="300" 
     style="max-width:100%; height:auto;"
-    border-radius ="20"
+   
   />
 </p>
 
